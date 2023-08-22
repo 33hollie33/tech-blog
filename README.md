@@ -12,8 +12,6 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
   ## Table of Content
   - [Project Description](#Description)
-  - [Installation](#Installation)
-  - [Tools](#Tools)
   - (https://opensource.org/licenses/MIT)
   - [Questions](#Questions)
 
