@@ -1,5 +1,4 @@
-const { Post } = require('../models');
-
+const { Post } = require("../models");
 
 const seedPosts = () => Post.bulkCreate(postData);
 
